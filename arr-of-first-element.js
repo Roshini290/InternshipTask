@@ -1,5 +1,5 @@
 /** 
- * @param {object} n is to be raise
+ * @param {object} n is an array
  * @function {object} get an array and assign the first index 
  * value of an array to the variable firstIndex
  * @return {object} it returns the first element in an array
