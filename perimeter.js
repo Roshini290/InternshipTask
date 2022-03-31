@@ -10,8 +10,8 @@ function findPerimeter(length, width) {
     return perimeter;
 }
 
-let length = 2;
-let width = 5;
+let length = 1;
+let width = 2;
 let result = findPerimeter(length, width);
 console.log(" Perimeter of the Rectangle = ", result);
 
