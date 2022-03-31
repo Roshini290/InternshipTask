@@ -1,8 +1,6 @@
 /**
  * @param {number} number of sides is to be raise and 
    must be a natural number.
- * @function {number} calculates the sum of internal angles 
-   which is having greater than 2 sides
  * @return {number} it returns sum of internal angles
  */
 
