@@ -11,7 +11,7 @@ function findPerimeter(length, width) {
 }
 
 let length = 2;
-let width = 0;
+let width = 5;
 let result = findPerimeter(length, width);
 console.log(" Perimeter of the Rectangle = ", result);
 
