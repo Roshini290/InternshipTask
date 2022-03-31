@@ -1,12 +1,10 @@
 /** 
- * @param {object} n is an array
- * @function {object} get an array and assign the first index 
- * value of an array to the variable firstIndex
- * @return {object} it returns the first element in an array
+ * @param {object} arr - mixed array
+ * @return {object} firstIndex - It returns the first element of mixed array
  */
 
-function arrOfFirst(n) {
-    var firstIndex = n[0]; 
+ function arrOfFirst(arr) {
+    var firstIndex = arr[0]; 
     return firstIndex;  
 }
 
