@@ -1,7 +1,7 @@
 /**
- * @param {number} length is to be raise and must be a natural number.
- * @param {number} width is to be raise and must be a natural number.
- * @return {number} it returns the perimeter value 
+ * @param {number} length - length of the rectangle
+ * @param {number} width - width of the rectangle
+ * @return {number} - returns the perimeter value 
    of given length and width.
  */
 
