@@ -1,6 +1,7 @@
 /**
+ * Returns sum of the internal angles of a ploygon
  * @param {number} sides - number of sides in a polygon
- * @return {number} - returns sum of the internal angles of a polygon
+ * @returns {number} - returns sum of internal angles of a polygon
  */
 
 function sumOfInternalAngles(sides) {
