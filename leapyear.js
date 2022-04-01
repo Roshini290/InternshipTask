@@ -1,6 +1,6 @@
 /**
  * @param {number} year - year
- * @return {boolean} - returns true if the given year is leap year
+ * @return {boolean} returns true if the given year is leap year
    otherwise it returns false 
  */
 
