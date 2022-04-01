@@ -1,8 +1,8 @@
 /**
- * @param {number} length - vertical length
+ * calculate perimeter of the rectangle
+ * @param {number} length - length of the rectangle
  * @param {number} width - horizontal width
- * @return {number} - returns the perimeter 
-   of given length and width
+ * @returns {number} - returns perimeter of the rectangle
  */
 
 function findPerimeter(length, width) {
