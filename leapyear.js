@@ -1,7 +1,7 @@
 /**
- * check Leap year or not
+ * Check Leap year or not
  * @param {number} year - year
- * @return {boolean} - returns true if the given year is leap year
+ * @returns {boolean} - returns true if the given year is leap year
    otherwise it returns false 
  */
 
