@@ -1,4 +1,5 @@
 /**
+ * calculate the sum of internal angles in a polygon 
  * @param {number} sides - number of sides in a polygon
  * @return {number} - returns sum of the internal angles of a polygon
  */
