@@ -1,7 +1,7 @@
 /**
  * calculate perimeter of the rectangle
  * @param {number} length - length of the rectangle
- * @param {number} width - horizontal width
+ * @param {number} width - width of the rectangle
  * @returns {number} - returns perimeter of the rectangle
  */
 
