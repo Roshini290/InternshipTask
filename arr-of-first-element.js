@@ -1,16 +1,14 @@
-/**
- * calculate Perimeter of the rectangle
- * @param {number} length - length of the rectangle
- * @param {number} width - width of the rectangle
- * @return {number} - returns the perimeter of the rectangle
+/** 
+ * Returns the first element in an array
+ * @param {object} arr - mixed array
+ * @return {object} firstIndex - returns the first element of mixed array
  */
 
-function findPerimeter(length, width) {
-    let perimeter = 2 * (length + width);
-    return perimeter;
+ function arrOfFirst(arr) {
+    var firstIndex = arr[0]; 
+    return firstIndex;  
 }
 
-let length = 1;
-let width = 2;
-let result = findPerimeter(length, width);
-console.log(" Perimeter of the Rectangle = ", result);
+let result = arrOfFirst([ "Hello Javascript", 2.5, 3, 4, 5 ]);
+console.log(" First element in the array = ", result);
+
