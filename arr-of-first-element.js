@@ -1,10 +1,10 @@
 /** 
- * @param {object} arr - mixed array
- * @return {object} firstIndex - returns the first element of mixed array
+ * @param {object} a - array
+ * @return {object} firstIndex - returns the first element of an array
  */
 
- function arrOfFirst(arr) {
-    var firstIndex = arr[0]; 
+ function arrOfFirst(a) {
+    var firstIndex = a[0]; 
     return firstIndex;  
 }
 
