@@ -1,10 +1,3 @@
-/**
- * calculate perimeter of the rectangle
- * @param {number} length - length of the rectangle
- * @param {number} width - width of the rectangle
- * @returns {number} - returns perimeter of the rectangle
- */
-
 function findPerimeter(length, width) {
     let perimeter = 2 * (length + width);
     return perimeter;
