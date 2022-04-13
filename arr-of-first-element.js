@@ -1,8 +1,3 @@
-/** 
- * Returns the first element in an array
- * @param {object} arr - mixed array
- * @returns {object} firstIndex - returns the first element of mixed array
- */
 
  function arrOfFirst(arr) {
     var firstIndex = arr[0]; 
