@@ -1,7 +1,7 @@
 /** 
  * Returns the first element in an array
- * @param {object} arr - mixed array
- * @returns {object} firstIndex - returns the first element of mixed array
+ * @param {object} arr - array
+ * @returns {object} firstIndex - returns the first element of array
  */
 
  function arrOfFirst(arr) {
