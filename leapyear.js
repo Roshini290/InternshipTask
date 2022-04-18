@@ -1,7 +1,6 @@
 /**
  * @param {number} year - year
- * @return {boolean} returns true if the given year is leap year
-   otherwise it returns false 
+ * @return {boolean} returns true if it is leap year
  */
 
 function checkLeapyear(year) { 
